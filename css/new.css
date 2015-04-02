@@ -1,0 +1,22 @@
+.tagline{
+	font-size: 50px;
+}
+.service{
+	margin-top: -50px;
+}
+.icon{
+	color: #1abc9c;
+}
+.hr-line-under{
+	border-color: #1abc9c;
+}
+
+.chairman{
+	text-align: center;
+}
+
+@media only screen and (max-width: 480px){
+	.head{
+		margin-top: 50px;
+	}
+}
